@@ -8,5 +8,3 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 #3 Client Segmentation
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
-
-#4
