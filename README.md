@@ -21,3 +21,21 @@ Source: Source: https://pathology.jhu.edu/breast/types-of-breast-cancer
 
 -Breast cancer became the most common cancer globally as of 2021, accounting for 12% of all new annual cancer cases worldwide, according to the World Health Organization.
 
+
+## Stakeholder
+'
+
+## The Business Problem 
+The goal is to build a model with high accuracy that classifies breast cancer image samples whether it has cancerous cells or if its normal.
+
+Invasive Ductal Carcinoma (IDC) is the most common subtype of all breast cancers. To assign an aggressiveness grade to a whole mount sample, pathologists typically focus on the regions which contain the IDC. As a result, one of the common pre-processing steps for automatic aggressiveness grading is to delineate the exact regions of IDC inside of a whole mount slide.
+
+## Data & Methods
+The dataset is divided into 2 folders, train_dir and val_dir, with subfolders for each picture category.  There are 198,000 clean images and 118,000 images with cancer cells.
+
+The original dataset consisted of 162 whole mount slide images of Breast Cancer (BCa) specimens scanned at 40x. From that, 277,524 patches of size 50 x 50 were extracted (198,738 IDC negative and 78,786 IDC positive). Each patch’s file name is of the format: uxXyYclassC.png — > example 10253idx5x1351y1101class0.png . Where u is the patient ID (10253idx5), X is the x-coordinate of where this patch was cropped from, Y is the y-coordinate of where this patch was cropped from, and C indicates the class where 0 is non-IDC and 1 is IDC.
+
+
+
+## Recommendations 
+
