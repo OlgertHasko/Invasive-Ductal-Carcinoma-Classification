@@ -39,3 +39,5 @@ The original dataset consisted of 162 whole mount slide images of Breast Cancer 
 
 ## Recommendations 
 
+**Repository Structure:**
+```
