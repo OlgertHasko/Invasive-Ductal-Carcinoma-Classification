@@ -44,6 +44,12 @@ The original dataset consisted of 162 whole mount slide images of Breast Cancer 
 -Implement our machine learning model to assist hospitals with initial cancer detection
 
 -Have a doctor independently review any scans with 70% or lower prediction
+## Sources
+https://pathology.jhu.edu/breast/types-of-breast-cancer
+https://jamanetwork.com/journals/jama/fullarticle/2203798
+https://www.frontiersin.org/articles/10.3389/fmed.2019.00264/full#B24
+https://www.hindawi.com/journals/cmmm/2021/4019358/
+https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=497
 
 **Repository Structure:**
 ```
