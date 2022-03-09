@@ -50,6 +50,7 @@ https://jamanetwork.com/journals/jama/fullarticle/2203798
 https://www.frontiersin.org/articles/10.3389/fmed.2019.00264/full#B24
 https://www.hindawi.com/journals/cmmm/2021/4019358/
 https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=497
+https://github.com/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Keract-activation.ipynb
 
 **Repository Structure:**
 ```
