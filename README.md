@@ -2,6 +2,7 @@
 
 Image Classification for breast cancer predictions
 Dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+
 Presentation: https://www.canva.com/design/DAE6T2QLFss/ruVoaJzRcIFitTn9wrUn8w/edit#
 
 Authors: Olgert Hasko
