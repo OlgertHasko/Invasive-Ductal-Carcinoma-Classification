@@ -54,3 +54,9 @@ https://github.com/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/K
 
 **Repository Structure:**
 ```
+├── Model Files                            <- Files that include saved models and log files 
+├── Presentation Images                    <- Images used for presentation
+├── .gitignore                             <- gitignore 
+├── Final_Notebook.ipynb                   <- Final notebook with best model
+├── README.md                              <- The top-level README for reviewers of this project
+└── tf_board_plotting.ipynb                <- Train-Validation plots for the presentation
