@@ -1,7 +1,8 @@
 # Invasive Ductal Carcinoma Classification
 
-#1 Image Classification for breast cancer predictions
-https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+Image Classification for breast cancer predictions
+Dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+Presentation: https://www.canva.com/design/DAE6T2QLFss/ruVoaJzRcIFitTn9wrUn8w/edit#
 
 Authors: Olgert Hasko
 
@@ -23,10 +24,10 @@ Source: Source: https://pathology.jhu.edu/breast/types-of-breast-cancer
 
 
 ## Stakeholder
-'
+-Athina Breast Cancer, Albania
 
 ## The Business Problem 
-The goal is to build a model with high accuracy that classifies breast cancer image samples whether it has cancerous cells or if its normal.
+Due to a shortage of qualified doctors and general corruption in thr country.  I set out to create a CNN model that would help aliviate some of the issues facing people in albania with cancer detection and follow up treatment. 
 
 Invasive Ductal Carcinoma (IDC) is the most common subtype of all breast cancers. To assign an aggressiveness grade to a whole mount sample, pathologists typically focus on the regions which contain the IDC. As a result, one of the common pre-processing steps for automatic aggressiveness grading is to delineate the exact regions of IDC inside of a whole mount slide.
 
@@ -38,6 +39,10 @@ The original dataset consisted of 162 whole mount slide images of Breast Cancer 
 
 
 ## Recommendations 
+
+-Implement our machine learning model to assist hospitals with initial cancer detection
+
+-Have a doctor independently review any scans with 70% or lower prediction
 
 **Repository Structure:**
 ```
